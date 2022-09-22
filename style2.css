@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(235, 238, 233);
+    
+    
+}
+.list1 {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+.list1 li {
+   margin-right:  10px;
+   
+}
+.list2 li {
+    list-style: none;
+    justify-content: end;
+}
+.p1 {
+    color: rgb(13, 6, 6);
+}
+.list2 li a {
+    margin-left: 8px;
+}
+.list2 li {
+    margin-bottom: 8px;
+}
+.list1 li a {
+    color: darkmagenta;
+}
+.list10 li {
+    list-style: none;
+}
